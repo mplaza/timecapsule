@@ -1,6 +1,6 @@
 # Timecapsule
 
-###This is a time capsule that lives on the blockchain.
+### This is a time capsule that lives on the blockchain.
 
 
 >You can stash tokens in here.
